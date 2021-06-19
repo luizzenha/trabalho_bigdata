@@ -31,4 +31,4 @@ FIELDS TERMINATED BY ';'
 STORED AS TEXTFILE
 location '/user/vagrant/trabFinal/OcorrênciasTransito';
 
-LOAD DATA LOCAL INPATH '/vagrant/trabalho_final/CSV/OcorrênciasTransito.csv' OVERWRITE INTO TABLE ocorrencia_transito;
+LOAD DATA LOCAL INPATH '/vagrant/trabalho_final/CSV/ocorrencia_transito.csv' OVERWRITE INTO TABLE ocorrencia_transito;
