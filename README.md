@@ -38,5 +38,6 @@ GRUPO:
 - Kleber Luiz Tomazi
 - Luiz Othávio Heitzmann Zenha
 - Rafaela dos Santos Silva
-- Wagner Soares da Silva
 - Verônica Batista
+- Wagner Soares da Silva
+
