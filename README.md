@@ -28,9 +28,10 @@ Trabalho em grupo big data - MBA
   ex:
   `$ spark-submit atividade_01.py`
 
-- Extrair os arquivos gerados, importar no colab ou em um ambiente python com pandas e executar os códigos que estão dentro da pasta pandas para geração dos gráficos
-
-
+  
+- Extrair os arquivos gerados pelo utilitario http://node1:50070/ e importar no colab ou em um ambiente python com pandas e executar os códigos que estão dentro da pasta pandas para geração dos gráficos
+  obs: Os Arquivos gerados ficarão em: /user/vagrant/trabFinal/
+![image](https://user-images.githubusercontent.com/20114208/122657307-d4976f00-d138-11eb-9bd3-b393bbbd3350.png)
 
 GRUPO:
 - Arthur Almeida
