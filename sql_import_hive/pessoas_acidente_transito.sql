@@ -26,4 +26,4 @@ FIELDS TERMINATED BY ';'
 STORED AS TEXTFILE
 location '/user/vagrant/trabFinal/Pessoas_acidenteTransito-2019';
 
-LOAD DATA LOCAL INPATH '/vagrant/trabalho_final/CSV/Pessoas_acidenteTransito-2019.csv' OVERWRITE INTO TABLE pessoas_acidente_transito;
+LOAD DATA LOCAL INPATH '/vagrant/trabalho_final/CSV/pessoas_acidente_transito.csv' OVERWRITE INTO TABLE pessoas_acidente_transito;
